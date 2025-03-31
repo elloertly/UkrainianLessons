@@ -271,7 +271,7 @@
       }
     }
   },
-  "cacheBootResources": true,
+  "cacheBootResources": false,
   "debugBuild": false,
   "debugLevel": 0,
   "linkerEnabled": false,
