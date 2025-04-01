@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Quizzing",
   "resources": {
-    "hash": "sha256-FQIWEY2iT6gtMTOMPh9lzyK085TX5i/iZ6Nui667o7k=",
+    "hash": "sha256-le7GPjyDr8F/8UtpS/kPZ6B5wl91IPA95c1qX7JHJM0=",
     "runtime": {
       "dotnet.6.0.33.knzdyaf867.js": "sha256-3qQapGQ76xXOm4Dpi23h4jVNXH1bTJXQIuoMVyT5rnU=",
       "dotnet.timezones.blat": "sha256-P+/t9PCEv/9QsJggxMNw2wdb6fNvy1O6Es0UqrFfIPQ=",
@@ -56,7 +56,7 @@
       "Microsoft.Win32.Registry.dll": "sha256-H32p1Vlrp6iuaIAlBMZN7PnhfduQjJ0jfUxZRk7TtKI=",
       "mscorlib.dll": "sha256-B9j0sYk80myYI4rWEvcGR3X307RSTBIwNZyYmqssN/g=",
       "netstandard.dll": "sha256-OA2B0VuineNCslrp0x3+8GHIKIgroIXq3QAppg304/0=",
-      "Quizzing.dll": "sha256-tHHyJV4onqHcQjIIDink7529RmgM30dAqxDNgSnZRdY=",
+      "Quizzing.dll": "sha256-iQdO+M7mEzQJfgbvuDZsG0CvNCQB5jFNsw+1OOlrAgU=",
       "System.AppContext.dll": "sha256-uH2bODLHybqHD+fnBQT80HEvNnD6HdzntzUdTjNLxOk=",
       "System.Buffers.dll": "sha256-aWzUigTsNVDJj7kpEKlE6oUkw+QIujFrT7geMwDf5Lc=",
       "System.ClientModel.dll": "sha256-oGUjAol59CCrwgm+YqBrMDgomTKplCsa087lKvLNvAo=",

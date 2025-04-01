@@ -18,7 +18,7 @@
     box-shadow: -0.3px 0.3px 3px rgba(0,0,0,0.3);
 }
 .option-right[b-1ddyp2bn6o] {
-    background-color: #bbb;
+    background-color: forestgreen;
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 8px;
@@ -27,7 +27,7 @@
 }
 
     .option:hover[b-1ddyp2bn6o] {
-        background-color: #28a745;
+        background-color: dodgerblue;
         color:#fff;
         border-radius: 3px;
         padding: 10px;
@@ -73,7 +73,7 @@
 .next-btn[b-foy3w8mslc] {
     width: 200px;
     padding: 5px;
-    background-color: #28a745;
+    background-color: forestgreen;
     color: #fff;
     font-size: 14pt;
     border-radius: 3px;
@@ -185,6 +185,7 @@ main[b-uly2nud1wv] {
     width: 2rem;
     font-size: 1.1rem;
     vertical-align: text-top;
+    text-align:center;
     top: -2px;
 }
 
